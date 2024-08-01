@@ -1,2 +1,2 @@
 # Project_AM23M004
-Projects related to Data Science, Data Analyst, Machine Learning &amp; Gen AI
+Projects related to Data Science, Data Analyst, Machine Learning and Gen AI
